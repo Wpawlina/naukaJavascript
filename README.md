@@ -1,3 +1,10 @@
-moja nauka JavaScript z kursów
-*Udemy FullStack Javascript od Podstaw + 100 omówionych pyt. rekrut., 24 projekty
-*Vue.js Course for Beginners [2021 Tutorial] freeCodeCamp.org
+JavaScript Cources 
+================================================
+<ul>
+  <li>
+    <a href=https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/>FullstackTutorial</a>
+  </li>
+  <li>
+    <a href=https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=3s&ab_channel=freeCodeCamp.org>VueJS</a>
+  </li>
+</ul>
